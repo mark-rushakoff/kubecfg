@@ -10,7 +10,7 @@ require (
 	github.com/golang/protobuf v1.5.2
 	github.com/google/go-jsonnet v0.18.0
 	github.com/googleapis/gnostic v0.5.5
-	github.com/hexops/gotextdiff v1.0.3 // indirect
+	github.com/hexops/gotextdiff v1.0.3
 	github.com/huandu/xstrings v1.3.2 // indirect
 	github.com/kubecfg/yaml/v2 v2.4.2
 	github.com/mattn/go-isatty v0.0.14
@@ -28,7 +28,7 @@ require (
 	k8s.io/apimachinery v0.23.3
 	k8s.io/client-go v0.23.3
 	k8s.io/klog v1.0.0
-	k8s.io/kube-openapi v0.0.0-20220104150652-0d48a347b383
+	k8s.io/kube-openapi v0.0.0-20220124234850-424119656bbf
 	k8s.io/kubectl v0.23.3
 )
 
